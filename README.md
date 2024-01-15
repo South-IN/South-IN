@@ -3,7 +3,6 @@
 <h3 align="center">A passionate full Stack web developer from India</h3>
 <img align="right" alt="Programming" width="400" src="https://apexx77.github.io/website/images/pro.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=south-in&label=Profile%20views&color=0e75b6&style=flat" alt="south-in" /> </p>
 
 # 💫 About Me:
 🤝 I’m looking for help with android development<br>🌱 I’m currently learning htmx , Django , react native<br>💬 Ask me about MERN Stack , Python , Web dev<br>
