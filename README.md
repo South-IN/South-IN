@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🤝 I’m looking for help with android development<br>🌱 I’m currently learning htmx , Django , react native<br>💬 Ask me about MERN Stack , Python , Web dev<br>
+🤝 I’m looking for help with android development<br>🌱 I’m currently learning htmx , nextjs , react native<br>💬 Ask me about MERN Stack , Python , Web dev<br>
 
 
 ## 🌐 Socials:
@@ -18,16 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=South-IN&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=South-IN&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=South-IN&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=South-IN&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=South-IN&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
