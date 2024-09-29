@@ -1,7 +1,7 @@
-![Header](./github-header-image.png)
+[![An image of @southin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/southin)](https://holopin.io/@southin)
 <h1 align="center">Hi 👋, I'm Saurav Singh</h1>
 <h3 align="center">A passionate full Stack web developer from India</h3>
-<img align="right" alt="Programming" width="400" src="https://apexx77.github.io/website/images/pro.gif">
+
 
 
 # 💫 About Me:
